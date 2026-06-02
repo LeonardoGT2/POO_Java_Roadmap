@@ -30,6 +30,5 @@ Seguimiento semanal del roadmap de Java basado en https://roadmap.sh/java, integ
 - Circulo - Polimorfismo con calculo de area
 - Rectangulo - Polimorfismo con calculo de area
 - Main - Demostracion de polimorfismo
-- Java SE 11
 - Eclipse IDE
 - Git y GitHub
